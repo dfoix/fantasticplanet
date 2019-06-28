@@ -1,0 +1,4 @@
+monsters/graphics/slime.png 40 40 40 40 100
+monsters/graphics/face.png  55 77 48 77 40
+monsters/graphics/ape.png 51 51 120 120 200
+monsters/graphics/jumper.png 32 32 40 40 20

@@ -1,0 +1,2 @@
+weapons/graphics/default.png weapons/graphics/default_blast_left.png weapons/graphics/default_blast_right.png weapons/sounds/default_fire.wav weapons/sounds/default_hit.wav 2 8 5 1 10 16 10 24 15 12 15 24 30
+weapons/graphics/default.png weapons/graphics/default_blast_left.png weapons/graphics/default_blast_right.png weapons/sounds/default_fire.wav weapons/sounds/default_hit.wav 4 8 5 1 10 16 10 32 20 12 15 24 30

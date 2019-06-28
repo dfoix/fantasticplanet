@@ -1,0 +1,94 @@
+“C” Libraries:
+
+
+Fixed_print.c / Dr. Evan Schemm (LSSU)
+
+License: CC Attribution 3.0 Unported
+
+http://furball.schemm.lssu.edu/SDL/
+
+
+Artwork:
+
+
+Space Soldier (M484 Games) / Master484
+
+License: CC0 1.0 Universal
+
+https://opengameart.org/content/space-soldier-m484-games
+
+
+Warped Caves Pixel Art Pack / ansimuz
+
+License: CC Attribution 3.0 Unported
+
+https://opengameart.org/content/warped-caves-pixel-art-pack
+
+
+Fantasy Planet / ashishlko11
+
+License: CC Attribution 3.0 Unported
+
+https://opengameart.org/content/fantasy-planet
+
+
+Music:
+
+
+Observing the Star / yd
+
+License: CC0 1.0 Universal
+
+https://opengameart.org/content/another-space-background-track
+
+
+Alien Ruins2 / bart
+
+License: CC Attribution 3.0 Unported
+
+https://opengameart.org/content/alien-ruins
+
+
+Dark Cave / Michael Robinson Homingstar
+
+License: CC Attribution-ShareAlike 3.0 Unported
+
+[https://opengameart.org/content/dark-cave https://opengameart.org/content/dark-cave]
+
+
+Lost Signal Main Theme / [https://opengameart.org/users/petterthesturgeon PetterTheSturgeon]
+
+License: CC Attribution 3.0 Unported
+
+https://opengameart.org/content/sci-fi-electronic-lost-signal
+
+
+Sound Effects:
+
+
+Gun Fire / AVW
+
+License: CC Attribution 3.0 Unported
+
+https://opengameart.org/content/collection-gun-sounds
+
+
+Jumping / [http://apricot.blender.org/ Blender Foundation]
+
+License: CC Attribution 3.0 Unported
+
+[https://opengameart.org/content/jump-sound-effect-yo-frankie https://opengameart.org/content/jump-sound-effect-yo-frankie]
+
+
+Landing / [http://www.freesound.org/people/MentalSanityOff/ MentalSanityOff]
+
+License: CC0 1.0 Universal
+
+[https://opengameart.org/content/jump-landing-sound https://opengameart.org/content/jump-landing-sound]
+
+
+Footsteps / [https://opengameart.org/users/haeldb HaelDB]
+
+License: CC0 1.0 Universal
+
+https://opengameart.org/content/footsteps-leather-cloth-armor
